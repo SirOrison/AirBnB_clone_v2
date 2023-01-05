@@ -1,3 +1,7 @@
+# *0x02. AirBnB clone - MySQL* #
+![image](https://user-images.githubusercontent.com/106808436/210779824-9bb72a3d-8015-4613-8536-170bf1c9289e.png)
+
+
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
